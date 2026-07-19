@@ -1,4 +1,3 @@
-import prompt
 from random import randint
 from brain_games import cli
 
