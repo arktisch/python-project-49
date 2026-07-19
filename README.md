@@ -11,5 +11,8 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=arktisch_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=arktisch_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=arktisch_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=arktisch_python-project-49)
 
-##Demo
+##Demo brain-ever
 [![asciicast](https://asciinema.org/a/1261175.svg)](https://asciinema.org/a/1261175)
+
+##Demo brain-calc
+[![asciicast](https://asciinema.org/a/UZuynz6pwS3BehjT.svg)](https://asciinema.org/a/UZuynz6pwS3BehjT)
